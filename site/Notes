@@ -1,0 +1,13 @@
+Notes:
+browser-sync start --server --directory --files "*"
+git add .
+git commit -m "comment"
+git push
+ls
+mkdir
+
+Resources for questions:
+Stack Overflow
+Better to include code:
+JSFiddle.net  add code, save, get URL to paste in Stack Overflow
+CodePen.io
